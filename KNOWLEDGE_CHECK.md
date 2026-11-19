@@ -14,4 +14,4 @@ Name the Lambda function from your screenshot. Why did Chalice create this funct
 
 **Your answer:**
 
-...
+The function is book-analyzer-dev. Each route is triggered by a HTTP request via API Gateway. Chalice puts them into one function and API Gateway sends requests. 
